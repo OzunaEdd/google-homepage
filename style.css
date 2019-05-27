@@ -44,9 +44,13 @@ input[type="submit"] {
   margin-top : 10px;
 }
 
-img {
+main div img {
   margin : auto auto auto 160px;
   padding: 10px;
+}
+
+.navImg {
+  padding-top: 1px;
 }
 
 .centerPiece {
